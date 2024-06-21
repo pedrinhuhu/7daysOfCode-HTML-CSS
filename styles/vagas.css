@@ -1,0 +1,39 @@
+.vagas {
+    padding-left: 20em;
+    padding-top: 1em;
+    margin: 0 auto;
+    padding-right: 20em;
+}
+
+.titulo__vagas {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 1em 0;
+}
+
+.titulo__funcao {
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 8px;
+}
+
+.informacoes {
+    padding-top: 2em;
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cinza-claro);
+}
+
+.horario {
+    padding-right: 2em;
+}
+
+.titulo__borda {
+    border: 1px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: var(--cinza-clarinho);
+    padding: 1em 0 1em 1em;
+    margin-top: 1em;
+}
